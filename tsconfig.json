@@ -9,6 +9,7 @@
     "baseUrl": ".",
     "paths": {
       "@components/*": ["components/*"],
+      "@helpers/*": ["helpers/*"],
       "@styles/*": ["styles/*"]
     },
     "allowJs": true,
